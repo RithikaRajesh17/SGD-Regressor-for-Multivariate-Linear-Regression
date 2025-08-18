@@ -58,21 +58,21 @@ print("\nPredictions:\n",y_pred[:5])
 ![multivariate linear regression model for predicting the price of the house and number of occupants in the house](sam.png)
 ```
 ![multivariate linear regression model for predicting the price of the house and number of occupants in the house](sam.png)
-[[ 1.43668576 35.47234132]
- [ 1.98591082 35.70522109]
- [ 2.73244879 35.65084459]
+[[ 1.63674887 35.62502343]
+ [ 1.83055997 35.8184955 ]
+ [ 2.20360529 35.73240698]
  ...
- [ 4.2155133  35.46061834]
- [ 2.6129515  35.54554261]
- [ 2.08353812 35.56827252]]
-Mean Squared Error: 2.5065200644110295
+ [ 2.10472985 35.66944566]
+ [ 1.52054267 35.82011216]
+ [ 2.97172239 35.56489627]]
+Mean Squared Error: 2.577324496480717
 
 Predictions:
- [[ 1.43668576 35.47234132]
- [ 1.98591082 35.70522109]
- [ 2.73244879 35.65084459]
- [ 1.34445791 35.86093014]
- [ 2.6595833  35.69618291]]
+ [[ 1.63674887 35.62502343]
+ [ 1.83055997 35.8184955 ]
+ [ 2.20360529 35.73240698]
+ [ 1.46289667 35.79406193]
+ [ 1.46790996 35.73636411]]
 ```
 
 ## Result:
